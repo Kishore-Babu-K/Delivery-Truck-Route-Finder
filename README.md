@@ -26,7 +26,7 @@ distance.
 OpenRouteService API.
 4. TSP Solver: 
 ○ Implements Dynamic Programming to compute the shortest route. 
-○ Reconstructs the optimal path after computing the minimal cost. 
+○ Reconstructs the optimal path after computing the minimal cost.
 5. Flask Web Application: 
 ○ Provides an interface for users to input locations. 
 ○ Displays optimized routes and costs.
